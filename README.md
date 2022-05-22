@@ -20,4 +20,6 @@ Pedir al usuario una seria de datos y mostrarlos en un ALERT.
 
 Realizar un algoritmo con un condicional
 
+![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_02/condicional.png)
+
 [VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02)
