@@ -16,7 +16,7 @@ Crear un algoritmo pidiendo al usuario un dato y mostrarlo en un ALERT.
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_01/DiagramaFlujo01.png)
 
-[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) - [VER EN STACKBLITZ](https://stackblitz.com/edit/js-w1a4ub?file=index.html,index.js) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01)
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) [![VER STACKBLITZ](https://tutoriasjs.netlify.app/boton_stackblitz.png)](https://stackblitz.com/edit/js-w1a4ub?file=index.html,index.js) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01)
 
 # CLASE 02 - Control de flujos.
 
@@ -24,7 +24,4 @@ Crear un algoritmo pidiendo al usuario un dato incluyendo un condicional para mo
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_02/DiagramaFlujo02.png)
 
-[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) - [VER EN STACKBLITZ](https://stackblitz.com/edit/js-pja8jr?file=index.js) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02)
-
-##
-[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) [![VER STACKBLITZ](https://tutoriasjs.netlify.app/boton_stackblitz.png)](https://stackblitz.com/edit/js-w1a4ub?file=index.html,index.js) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01)
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) [![VER STACKBLITZ](https://tutoriasjs.netlify.app/boton_stackblitz.png)](https://stackblitz.com/edit/js-pja8jr?file=index.js) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02)
