@@ -1,12 +1,11 @@
-# Tutorias_Javascript
+TUTORIA JAVASCRIPT - CODERHOUSE
 ## Tutor: Jorge Angel PAEZ
 Material desarrollado para tutorias de Cursos de Javascript de CODERHOUSE
 
 ![Night Coding](https://tutoriasjs.netlify.app/coding_gif.gif)
 
-Hola! Mi nombre es Jorge Paez y me encuentro aprendiendo Javascript con [CODERHOUSE].
-En este repositorio, documentaré mis practicas y pruebas tanto propias del curso como externas al mismo.
-Las mismas se encontraran ordenadas en orden ascendente de complejidad.
+Hola! Mi nombre es Jorge Angel PAEZ y soy tutor de JAVASCRIPT en [CODERHOUSE].
+En este repositorio, los alumnos podrán encontrar diferentes recursos relacionados con la cursada.
 
 ---
 ![HANDS ON](https://tutoriasjs.netlify.app/HANDSON_HEADER.png)
@@ -15,6 +14,10 @@ Las mismas se encontraran ordenadas en orden ascendente de complejidad.
 
 Pedir al usuario una seria de datos y mostrarlos en un ALERT.
 
-[VER CÓDIGO](https://github.com/GiorgioCode/practicas-js/tree/master/01_prompt) - [VER EJEMPLO](https://practicajavascript.netlify.app/01_prompt/)
+[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01)
 
-# CLASE 02 - Uso de prompt y variables.
+# CLASE 02 - Control de flujos.
+
+Realizar un algoritmo con un condicional
+
+[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02)
