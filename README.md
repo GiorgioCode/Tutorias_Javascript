@@ -16,7 +16,7 @@ Crear un algoritmo pidiendo al usuario un dato y mostrarlo en un ALERT.
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_01/DiagramaFlujo01.png)
 
-[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01)
+[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_01) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_01){:target="_blank"}
 
 # CLASE 02 - Control de flujos.
 
@@ -24,4 +24,4 @@ Crear un algoritmo pidiendo al usuario un dato incluyendo un condicional para mo
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_02/DiagramaFlujo02.png)
 
-[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02)
+[VER CÓDIGO](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_02) - [VER EJEMPLO](https://tutoriasjs.netlify.app/HANDS-ON/Clase_02){:target="_blank"}
