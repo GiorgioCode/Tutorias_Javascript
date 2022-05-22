@@ -1,4 +1,4 @@
-![HEADER](https://tutoriasjs.netlify.app/HEADER_CODER.png)
+![HEADER](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HEADER_CODER.png)
 ## Tutor: Jorge Angel PAEZ
 Material desarrollado para tutorias de Cursos de Javascript de CODERHOUSE
 
