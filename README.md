@@ -29,12 +29,17 @@ Crear un algoritmo pidiendo al usuario un dato incluyendo un condicional para mo
 # CLASE 03 - Ciclos/Iteraciones.
 
 EJEMPLO 1 - CICLO FOR
+El ciclo FOR se ejecutará durante una determinada cantidad de pasos, segun lo establecido por el programador y en cada paso, se ejecutarán acciones. En este ciclo, se utiliza una variable indice, que se utiliza para llevar la cuenta de los pasos. El valor de esta variable, puede ser utilizado para interactuar con la accion llevada a cabo en el paso que se encuentre el ciclo.
+En este caso, utilizamos el ciclo FOR para mostrar en la consola, la generacion de una tabla de multiplicar, segun el valor ingresado por el usuario.
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_03_FOR/DiagramaFlujo03FOR.png)
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_03_FOR) [![VER STACKBLITZ](https://tutoriasjs.netlify.app/boton_stackblitz.png)](https://stackblitz.com/edit/js-2pfxz9?file=index.html,index.js) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/HANDS-ON/Clase_03_FOR)
 
 EJEMPLO 2 - CICLO WHILE
+El Ciclo while, se ejecutará mientras se cumpla una determinada condición.
+En este ejemplo, solicitamos al usuario que ingrese un numero mediante un PROMPT y dicho numero se guarda en una variable. La condicion de ejecucion del ciclo es que dicha variable, sea distinta de 55.
+Por ello, cuando el usuario ingresa el numero 55 el ciclo finaliza.
 
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_03_WHILE/DiagramaFlujo03WHILE.png)
 
