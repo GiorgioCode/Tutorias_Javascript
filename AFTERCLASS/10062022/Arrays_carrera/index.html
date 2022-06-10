@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>La Carrera</title>
+    <link href="offcanvas.css" rel="stylesheet" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
+
+    <style>
+      body {
+        background-color: #a7b4be;
+        color: #262335;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.2em;
+      }
+      footer {
+        position: fixed;
+        bottom: 0px;
+        z-index: 3;
+        background-color:#262335;
+        color:#a7b4be;
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark"
+      aria-label="Main navigation"
+    >
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">AfterClass 10/06/2022</a>
+        <button
+          class="navbar-toggler p-0 border-0"
+          type="button"
+          id="navbarSideCollapse"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div
+          class="navbar-collapse offcanvas-collapse"
+          id="navbarsExampleDefault"
+        >
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="dropdown01"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+                >Ejercicios</a
+              >
+              <ul class="dropdown-menu" aria-labelledby="dropdown01">
+                <li>
+                  <a class="dropdown-item" href="../Clase_personaje/index.html"
+                    >Personaje</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="../Arrays_carrera/index.html"
+                    >La Carrera</a
+                  >
+                </li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="../Arrays_tres_letras/index.html"
+                    >Tres Letras</a
+                  >
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="elementos">
+      <div class="b-example-divider"></div>
+      <h2>Ejercicio con Arrays y Métodos de Arrays - "La Carrera"</h2>
+      <img class="imagen_presentacion" src="imagen.svg" alt="" />
+      <h3>
+        Referencia:
+        <a
+          target="_blank"
+          href="https://github.com/gdcodev/25-metodos-array-javascript"
+          >VER</a
+        >
+      </h3>
+      <img src="codigoCarrera.png" alt="imagen de creacion de personajes" />
+    </div>
+    <div class="b-example-divider"></div>
+    <footer class="container-fluid">
+      <div class="d-flex justify-content-end align-items-center py-1 my-1 ">
+        <div>
+          <span class="px-3">&copy; 2022 - Jorge Angel PAEZ
+        </div>
+        <div>
+          <a class="px-1" href="https://twitter.com/giorgio_code" target="_blank"><i
+              class="bi bi-twitter"></i></a>
+        </div>
+        <div>
+          <a class="px-1" href="https://github.com/GiorgioCode" target="_blank"><i
+              class="bi bi-github"></i></a>
+        </div>
+        <div>
+          <a class="px-1" href="https://www.linkedin.com/in/jorge-angel-paez/" target="_blank"><i class="bi bi-linkedin"></i></a>
+        </div>
+      </div>
+    </footer>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"
+    ></script>
+    <script src="offcanvas.js"></script>
+    <script src="Carrera.js"></script>
+  </body>
+</html>

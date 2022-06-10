@@ -1,8 +1,10 @@
+//definimos constantes y variables
 const PI = 3.1416;
 let radioEsfera = 0;
 let volumen = 0;
 let volumenLitros = 0;
 
+//definimos la funcion
 function VolumenEsfera () {
   let radioEsfera = +prompt("Ingrese el radio de la esfera (en cm):"); //se solicita radio de esfera y se guarda parseado en radioEsfera
   volumen = ((4/3) * PI * (radioEsfera*radioEsfera*radioEsfera)) //se implementa formula segun datos. REFERENCIA: https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed
@@ -13,4 +15,4 @@ function VolumenEsfera () {
   return volumen
 }
 
-VolumenEsfera()
+VolumenEsfera() //llamo a la funcion para que se ejecute.

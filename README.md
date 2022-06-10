@@ -54,3 +54,10 @@ En este ejemplo, crearemos una funcion que calcule el volumen de una esfera, a p
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/HANDS-ON/Clase_04/DiagramaFlujo04.png)
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/HANDS-ON/Clase_04) [![VER STACKBLITZ](https://tutoriasjs.netlify.app/boton_stackblitz.png)](https://stackblitz.com/edit/js-hfnwry?file=index.html,index.js) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/HANDS-ON/Clase_04)
+
+# AFTERCLASS 10/06/2022
+
+En este After, practicaremos el uso de clases, metodos y propiedades de clases, arrays y metodos de arrays como asi tambien el uso de funciones.
+
+
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/AFTERCLASS/10062022/) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/AFTERCLASS/10062022/)
