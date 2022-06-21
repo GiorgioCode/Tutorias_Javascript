@@ -61,3 +61,10 @@ En este After, practicaremos el uso de clases, metodos y propiedades de clases, 
 
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/AFTERCLASS/10062022/) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/AFTERCLASS/10062022/)
+
+# AFTERCLASS 24/06/2022
+
+En este After, practicaremos el uso de eventos y de manejo del DOM, creando desde cero, un buscador de usuarios que filtra una serie tarjetas en funcion de los datos que contengan.
+
+
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/AFTERCLASS/24062022/) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/AFTERCLASS/24062022/)
