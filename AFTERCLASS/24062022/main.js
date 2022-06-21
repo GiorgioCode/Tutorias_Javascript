@@ -932,7 +932,7 @@ let contenedor = document.getElementById("container");
 function filtroUsuarios(input, selector) {
 	document.addEventListener("keyup", (e) => {
     console.log(e)
-		//se eleigió keydown porque funciona mejor con celulares (o al menos eso vi probandolo)
+
 		let entradaMinuscula = e.target.value.toLowerCase(); //manda a minusculas las entradas del input
 		console.log(entradaMinuscula)
     if (e.target.matches(input)) {
