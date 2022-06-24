@@ -65,7 +65,7 @@ En este After, practicaremos el uso de clases, metodos y propiedades de clases, 
 # AFTERCLASS 24/06/2022
 
 En este After, practicaremos el uso de eventos y de manejo del DOM, creando desde cero, un buscador de usuarios que filtra una serie tarjetas en funcion de los datos que contengan. Tambien generaremos una seccion de favoritos y haremos que las tarjetas introducidas en favoritos, se guarden en el localStorage del navegador para poder mantenerlas en diferentes usos.
-##Diagrama funcional
+## Diagrama funcional
 ![DIAGRAMA DE FLUJO](https://raw.githubusercontent.com/GiorgioCode/Tutorias_Javascript/master/AFTERCLASS/24062022/DiagramaFlujo.png)
 ## TEMAS PRACTICADOS
 ### Funciones - localStorage - Manejo de DOM - Condicionales - Ciclos - Array y metodos - Objetos - Template Strings - Eventos
