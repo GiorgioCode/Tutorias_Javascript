@@ -64,7 +64,11 @@ En este After, practicaremos el uso de clases, metodos y propiedades de clases, 
 
 # AFTERCLASS 24/06/2022
 
-En este After, practicaremos el uso de eventos y de manejo del DOM, creando desde cero, un buscador de usuarios que filtra una serie tarjetas en funcion de los datos que contengan.
+En este After, practicaremos el uso de eventos y de manejo del DOM, creando desde cero, un buscador de usuarios que filtra una serie tarjetas en funcion de los datos que contengan. Tambien generaremos una seccion de favoritos y haremos que las tarjetas introducidas en favoritos, se guarden en el localStorage del navegador para poder mantenerlas en diferentes usos.
+## TEMAS PRACTICADOS
+### Funciones - localStorage - Manejo de DOM - Condicionales - Ciclos - Array y metodos - Objetos - Template Strings - Eventos
+## LINKS DE INTERES UTILIZADOS:
+ https://www.mockaroo.com/schemas/new | https://getbootstrap.com/docs/5.2/getting-started/introduction/ |  https://bootswatch.com/
 
 
 [![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/Tutorias_Javascript/tree/master/AFTERCLASS/24062022/) [![VER EJEMPLO](https://tutoriasjs.netlify.app/boton_ejemplo.png)](https://tutoriasjs.netlify.app/AFTERCLASS/24062022/)
