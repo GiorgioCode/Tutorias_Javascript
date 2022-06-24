@@ -53,7 +53,7 @@ function cargarFavoritos() {
 
 cargarFavoritos();
 
-//GENERADOR DE TARJETAS DE USUARIOS
+//GENERADOR DE TARJETAS DE FAVORITOS
 favoritos.forEach((favoritos) => {
   contenedor_fav.innerHTML += `
 	<div class="card text-white bg-primary m-3"> 
@@ -74,16 +74,7 @@ function usuarioFavorito(identificador) {
   if(!favoritos.some(e=>e.id===identificador)) {
 	  favoritos.push(objeto_seleccionado);
 	  localStorage.setItem("StorageFavoritos", JSON.stringify(favoritos));
-	  contenedor_fav.innerHTML += `
-			<div class="card text-white bg-primary m-3"> 
-			  <div class="card-header"><img src=${objeto_seleccionado.avatar} /> ${objeto_seleccionado.first_name} ${objeto_seleccionado.last_name}</div>
-			  <div class="card-body">
-				<h4 class="card-title">Company: ${objeto_seleccionado.company}</h4>
-				<p class="card-text">job: ${objeto_seleccionado.company_department}</p>
-				<p class="card-text">email: ${objeto_seleccionado.email}</p>
-				<button onClick="quitarFavorito(${objeto_seleccionado.id})" class="btn btn-outline-danger">No Fav</button>
-			  </div>
-			</div>`; //cada tarjeta se va a generar ubicando las propiedades de cada objeto segun la obicacion determinada
+    location.reload()
   } else {
 	alert("el usuario ya se encuentra en favoritos =)")
   }
