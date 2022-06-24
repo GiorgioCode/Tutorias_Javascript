@@ -7,19 +7,3 @@
   opacity: 0;
   display: none;
 }
-
-#contenedor-usuarios {
-  display: flex;
-  flex-flow: row wrap;
-  margin-left: -8px;
-  width: 100%;
-  align-items: center;
-  justify-content: space-evenly;
-}
-.card {
-  flex: auto;
-  height: fit-content;
-  max-width: 400px;
-  min-width: 200px;
-  margin: 0 8px 8px 0;
-}
